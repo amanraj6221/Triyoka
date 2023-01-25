@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Rape">
+
+
+    <Button
+        android:id="@+id/rape"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="700dp"
+        android:text="Rape"
+        android:textAllCaps="false" />
+
+    <TextView
+        android:id="@+id/question1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="200dp"
+        android:text="Q.How does rape  affect society ?"
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/answer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="250dp"
+        android:text="A. Rape is a type of sexual assault which usually involves sexual intercourse or other type of sexual penetration, committed by perpetrator against consent of victim. According to National Crime Records Bureau 2013 report, Rape is fourth common crime against women. "
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/question2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="350dp"
+        android:text="Q.What is the punishment for rape in India?"
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/answer2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="400dp"
+        android:text="A. Punishment for rape is given in Section 376 of Indian Penal Code. Except in cases, provided in sub section 2 of the same section, punishment will be rigorous imprisonment which is not less than 7 years, which may extend to life imprisonment, and fine."
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/question3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="500dp"
+        android:text="Q.What is the circumstances falling under any of following descriptions?"
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <TextView
+        android:id="@+id/answer3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="550dp"
+        android:text="A.Firstly- Against her will, Secondly- without her consent, Thirdly- with her consent has been obtained by putting her on any person in whom she is intrested, in fear of death or of hurt. "
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+
+</RelativeLayout>

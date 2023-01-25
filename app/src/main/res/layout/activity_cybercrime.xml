@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Rape">
+
+
+    <Button
+        android:id="@+id/robbery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="700dp"
+        android:text="Cybercrime"
+        android:textAllCaps="false" />
+
+    <TextView
+        android:id="@+id/question1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="200dp"
+        android:text="Q.What is the impact of cybercrime in the economy?"
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/answer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="250dp"
+        android:text="A. The report concludes that close to $600 billion,nearly one percent of global GDP, is lost to cybercrime each year, which is up from a 2014 study that put global losses at about $445 billion . "
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/question2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="350dp"
+        android:text="Q.How does Cybercrime affect india?"
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/answer2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="400dp"
+        android:text="A. Among the Indian Organisations, which responded to KPMG''s, Cybercrime survey report 2014, 89% considered cybercrime as a major threat. According to the Norton Cybercrime Report 2011, 30 million Indians had become cybercrime victims, which cost the Indian economy $ 7.6 billion a year."
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/question3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="500dp"
+        android:text="Q.What is punishment for cybercrime in India?"
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/answer3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="550dp"
+        android:text="A.Penlaties if found guilty, can be imprisonment of up to three years and/or up to Rs 2 lakh fine. Section 66F : Acts of cyber terrorism. An individual convicted of a crime can face imprisonment of up to life."
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+
+
+
+</RelativeLayout>

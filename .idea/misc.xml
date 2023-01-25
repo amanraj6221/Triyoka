@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/drawable-anydpi/ic_action_home.xml" value="0.121" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/drawable-anydpi/ic_action_images.xml" value="0.147" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/drawable-anydpi/ic_action_search.xml" value="0.1685" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1685" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/activity_addtipoff.xml" value="0.25" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/activity_cybercrime.xml" value="0.21462163317657118" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/activity_dashboard.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/activity_kidnapping.xml" value="0.2359375" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/activity_murder.xml" value="0.25" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/activity_questionnaire2.xml" value="0.25" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/activity_rape.xml" value="0.2359375" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/activity_robbery.xml" value="0.2359375" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/activity_tipoffdetails.xml" value="0.25" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/activity_tipofflikedby.xml" value="0.2359375" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/activity_tipoffrow.xml" value="0.3523002421307506" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/fragment_addtipoff.xml" value="0.25" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/fragment_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/fragment_notifications.xml" value="0.25" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/fragment_questionnaire.xml" value="0.25" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/fragment_search.xml" value="0.25" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/layout/fragment_tipoff.xml" value="0.25" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Aman Raj/AndroidStudioProjects/anon/app/src/main/res/menu/main_menu.xml" value="0.2359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

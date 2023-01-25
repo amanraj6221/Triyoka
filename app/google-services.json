@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488202866911",
+    "project_id": "anon-84b60",
+    "storage_bucket": "anon-84b60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488202866911:android:af7c33c4133e2eee90196a",
+        "android_client_info": {
+          "package_name": "com.triyoka.anon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488202866911-uig9lur5s3742l96ao2mhhgigdogf2bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsV5AAg3eDlVpZMiS3_FUnllxBRwBg_dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488202866911-uig9lur5s3742l96ao2mhhgigdogf2bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Murder">
+
+
+    <Button
+        android:id="@+id/murder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="700dp"
+        android:text="Murder"
+        android:textAllCaps="false" />
+
+    <TextView
+        android:id="@+id/question1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="200dp"
+        android:text="Q.How does murder affect society ?"
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/answer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="250dp"
+        android:text="A. The cost of police and the cost of piblic in keeping a prisoner and the fear of having a murder loose in society. "
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/question2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="350dp"
+        android:text="Q.What does society believe about murder ?"
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <TextView
+        android:id="@+id/answer2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="400dp"
+        android:text="A.They believe it's wrong and that anyone who chooses to take someone's life away should face their consequences and serve their whole life in prison. They also believe murder's should be brought to justice and get what they deserve."
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <TextView
+        android:id="@+id/question3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="500dp"
+        android:text="Q.What is the punishment for murders ?"
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <TextView
+        android:id="@+id/answer3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="550dp"
+        android:text="A.According to Section 302 of the Indian Penal Code, whoever kills any person, shall be punished with death or with imprisonment for life, as well as with fine. It is a non-bailable, cognizable offense and triable by the court of session ."
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+
+</RelativeLayout>

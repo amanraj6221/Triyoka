@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Kidnapping">
+
+
+    <Button
+        android:id="@+id/kidnapping"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="700dp"
+        android:text="Kidnapping"
+        android:textAllCaps="false" />
+
+    <TextView
+        android:id="@+id/question1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="200dp"
+        android:text="Q.What are the effects of kidnapping on the society ?"
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/answer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="250dp"
+        android:text="A. kidnapping pose very serious effect on all the socio-economic indices such as: Psychological/emotional trauma, indebtedness of the victims family, unplanned relocation of people, financial loss through payment of ransom/protection and forceful closure of businesses, amongst others. "
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/question2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="350dp"
+        android:text="Q.What are the results of kidnapping ?"
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <TextView
+        android:id="@+id/answer2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="400dp"
+        android:text="A.Typical reactions occur in: Thinking : Intrusive thoughts, denial, impaired memory, decreased concentration, being overcautions and aware , confusion or fear of the event happening again. Emotions : shock,numbness,anxiety,guilt,depressions,anger and a sense of helplessness."
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <TextView
+        android:id="@+id/question3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="500dp"
+        android:text="Q.What is the punishment for kidnapping ?"
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+    <TextView
+        android:id="@+id/answer3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="550dp"
+        android:text="A.Whoever kidnaps any person from India or from lawful guardianship, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+
+</RelativeLayout>
